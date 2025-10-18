@@ -17,3 +17,7 @@ Validaciones en la Capa de Services:
 
 Todas las validaciones del negocio como lo es verificar fechas, estados válidos o si hay alguna tarea que ya existe se hacen dentro de la capa Service.
 Esto cumple con la reglas y restricciones de no poner lógica de negocio en los controllers y mantiene todas las reglas del sistema en un solo lugar, evitando repetir código.
+
+**Enlace Video:**
+
+https://drive.google.com/file/d/1TjpK8gfoqozI2IpwXECUVpLUGLwAwvg2/view?usp=sharing
